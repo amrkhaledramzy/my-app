@@ -247,7 +247,7 @@ export default function ProjectDetailPage() {
       >
         <div style={{ display: "flex", gap: "2rem", flexWrap: "wrap" }}>
           <span>📞 +1 (484) 550-4002</span>
-          <span>✉️ amr.ramzeymegahed1213@gmail.com</span>
+          <span>✉️ amr.ramzeymegahed@gmail.com</span>
         </div>
       </footer>
     </div>

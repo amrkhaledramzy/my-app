@@ -280,7 +280,7 @@ export default function HomePage() {
       >
         <div style={{ display: "flex", gap: "2rem", flexWrap: "wrap" }}>
           <span>📞 +1 (484) 550-4002</span>
-          <span>✉️ amr.ramzeymegssssssahed@gmail.com</span>
+          <span>✉️ amr.ramzeymegahed@amrgmail.com</span>
         </div>
       </footer>
     </div>
